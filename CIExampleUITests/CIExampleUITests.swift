@@ -31,7 +31,7 @@ class CIExampleUITests: XCTestCase {
             return true
         }
         
-        expectation(for: exists, evaluatedWith: app.staticTexts["Automating Everything"]) { () -> Bool in
+        expectation(for: exists, evaluatedWith: app.staticTexts["Automatin Everything"]) { () -> Bool in
             return true
         }
         
