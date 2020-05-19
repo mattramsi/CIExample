@@ -1,0 +1,6 @@
+framework module Pods_CIExampleTests {
+  umbrella header "Pods-CIExampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
