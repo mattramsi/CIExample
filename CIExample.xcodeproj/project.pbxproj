@@ -19,9 +19,8 @@
 		172F67302473802200BAFB3B /* CIExample.app in Resources */ = {isa = PBXBuildFile; fileRef = 172F66FB246F5A6500BAFB3B /* CIExample.app */; };
 		172F67312473802600BAFB3B /* CIExampleTests.xctest in Resources */ = {isa = PBXBuildFile; fileRef = 172F6711246F5A6B00BAFB3B /* CIExampleTests.xctest */; };
 		172F67322473802900BAFB3B /* CIExampleUITests.xctest in Resources */ = {isa = PBXBuildFile; fileRef = 172F671C246F5A6B00BAFB3B /* CIExampleUITests.xctest */; };
-		172F6734247381C000BAFB3B /* BuildFile in Embed Frameworks */ = {isa = PBXBuildFile; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		172F6734247381C000BAFB3B /* (null) in Embed Frameworks */ = {isa = PBXBuildFile; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		32F40FD59385050321E59919 /* Pods_CIExampleTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3917FC6C75950A231E7D474 /* Pods_CIExampleTests.framework */; };
-		44E2380A1AE79E82C6192AA4 /* Pods_CIExample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AC5E5B3AFECBB32B56C369A /* Pods_CIExample.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +47,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				172F6734247381C000BAFB3B /* BuildFile in Embed Frameworks */,
+				172F6734247381C000BAFB3B /* (null) in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -86,7 +85,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				44E2380A1AE79E82C6192AA4 /* Pods_CIExample.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
