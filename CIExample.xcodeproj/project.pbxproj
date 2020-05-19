@@ -15,6 +15,7 @@
 		172F670B246F5A6A00BAFB3B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 172F6709246F5A6A00BAFB3B /* LaunchScreen.storyboard */; };
 		172F6716246F5A6B00BAFB3B /* CIExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172F6715246F5A6B00BAFB3B /* CIExampleTests.swift */; };
 		172F6721246F5A6B00BAFB3B /* CIExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172F6720246F5A6B00BAFB3B /* CIExampleUITests.swift */; };
+		172F672F2473219A00BAFB3B /* Pods_CIExample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B9D2E5305A7142F05F3A0C2 /* Pods_CIExample.framework */; };
 		6F2E5BACED16545FD5E80AF0 /* Pods_CIExample_CIExampleUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 83EF9A9D8319B998FE731EA9 /* Pods_CIExample_CIExampleUITests.framework */; };
 		9C7A07BB09239E776DD41671 /* Pods_CIExampleTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD6A22FDF1B9B699F3E584C2 /* Pods_CIExampleTests.framework */; };
 /* End PBXBuildFile section */
@@ -67,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				172F672F2473219A00BAFB3B /* Pods_CIExample.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
