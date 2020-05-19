@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		038D7760D9E39364C06C4ABA /* Pods_CIExample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F4803412DEA92AC1222D797 /* Pods_CIExample.framework */; };
 		172F66FF246F5A6500BAFB3B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172F66FE246F5A6500BAFB3B /* AppDelegate.swift */; };
 		172F6701246F5A6500BAFB3B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172F6700246F5A6500BAFB3B /* SceneDelegate.swift */; };
 		172F6703246F5A6500BAFB3B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172F6702246F5A6500BAFB3B /* ViewController.swift */; };
@@ -16,7 +15,7 @@
 		172F670B246F5A6A00BAFB3B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 172F6709246F5A6A00BAFB3B /* LaunchScreen.storyboard */; };
 		172F6716246F5A6B00BAFB3B /* CIExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172F6715246F5A6B00BAFB3B /* CIExampleTests.swift */; };
 		172F6721246F5A6B00BAFB3B /* CIExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172F6720246F5A6B00BAFB3B /* CIExampleUITests.swift */; };
-		172F6734247381C000BAFB3B /* BuildFile in Embed Frameworks */ = {isa = PBXBuildFile; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		172F6734247381C000BAFB3B /* (null) in Embed Frameworks */ = {isa = PBXBuildFile; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		172F673D2473874A00BAFB3B /* CIExample.app in Resources */ = {isa = PBXBuildFile; fileRef = 172F66FB246F5A6500BAFB3B /* CIExample.app */; };
 		172F673E2473874D00BAFB3B /* CIExampleTests.xctest in Resources */ = {isa = PBXBuildFile; fileRef = 172F6711246F5A6B00BAFB3B /* CIExampleTests.xctest */; };
 		172F673F2473875000BAFB3B /* CIExampleUITests.xctest in Resources */ = {isa = PBXBuildFile; fileRef = 172F671C246F5A6B00BAFB3B /* CIExampleUITests.xctest */; };
@@ -48,7 +47,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				172F6734247381C000BAFB3B /* BuildFile in Embed Frameworks */,
+				172F6734247381C000BAFB3B /* (null) in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -86,7 +85,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				038D7760D9E39364C06C4ABA /* Pods_CIExample.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
