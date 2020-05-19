@@ -1,6 +1,0 @@
-framework module Pods_CIExample_CIExampleUITests {
-  umbrella header "Pods-CIExample-CIExampleUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
