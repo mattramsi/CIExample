@@ -15,6 +15,9 @@
 		172F670B246F5A6A00BAFB3B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 172F6709246F5A6A00BAFB3B /* LaunchScreen.storyboard */; };
 		172F6716246F5A6B00BAFB3B /* CIExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172F6715246F5A6B00BAFB3B /* CIExampleTests.swift */; };
 		172F6721246F5A6B00BAFB3B /* CIExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172F6720246F5A6B00BAFB3B /* CIExampleUITests.swift */; };
+		172F67302473802200BAFB3B /* CIExample.app in Resources */ = {isa = PBXBuildFile; fileRef = 172F66FB246F5A6500BAFB3B /* CIExample.app */; };
+		172F67312473802600BAFB3B /* CIExampleTests.xctest in Resources */ = {isa = PBXBuildFile; fileRef = 172F6711246F5A6B00BAFB3B /* CIExampleTests.xctest */; };
+		172F67322473802900BAFB3B /* CIExampleUITests.xctest in Resources */ = {isa = PBXBuildFile; fileRef = 172F671C246F5A6B00BAFB3B /* CIExampleUITests.xctest */; };
 		2505F323D1F9C1919E133123 /* Pods_CIExample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E98C5BB9CEECCCB6F16A27C4 /* Pods_CIExample.framework */; };
 		3BBE72832BDC248C77016E25 /* Pods_CIExample_CIExampleUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29572BE6B00FF8E8D4C0EDB4 /* Pods_CIExample_CIExampleUITests.framework */; };
 		EE842F5BDDE97F8736DDE53E /* Pods_CIExampleTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A804B1EA8A3A7581A9FB5E7B /* Pods_CIExampleTests.framework */; };
@@ -275,6 +278,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				172F67302473802200BAFB3B /* CIExample.app in Resources */,
 				172F670B246F5A6A00BAFB3B /* LaunchScreen.storyboard in Resources */,
 				172F6708246F5A6A00BAFB3B /* Assets.xcassets in Resources */,
 				172F6706246F5A6500BAFB3B /* Main.storyboard in Resources */,
@@ -285,6 +289,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				172F67312473802600BAFB3B /* CIExampleTests.xctest in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,6 +297,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				172F67322473802900BAFB3B /* CIExampleUITests.xctest in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
